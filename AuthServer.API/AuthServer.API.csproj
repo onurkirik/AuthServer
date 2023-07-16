@@ -16,10 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\AuthServer.Core\AuthServer.Core.csproj" />
     <ProjectReference Include="..\AuthServer.Data\AuthServer.Data.csproj" />
     <ProjectReference Include="..\AuthServer.Service\AuthServer.Service.csproj" />
